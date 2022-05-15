@@ -1,6 +1,6 @@
 {
-    "name": "journals",
-    "short_name": "journals",
+    "name": "Journals",
+    "short_name": "Journals",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

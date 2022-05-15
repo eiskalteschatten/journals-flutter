@@ -1,4 +1,4 @@
-# journals
+# Journals
 
 A new Flutter project.
 
